@@ -104,7 +104,7 @@ in your web browser.
 
 ## Author
 
-KAMTAM DURGA JYOTHIRMAI
+Mohammed Ayan Ahmed
 
 ## Internship
 
